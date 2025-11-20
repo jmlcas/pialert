@@ -1,4 +1,3 @@
 # Pi.Alert 
 
-Ver en "localhost:20211"
-
+Ver en "http://localhost:20211"
